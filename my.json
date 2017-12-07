@@ -11,7 +11,7 @@
     {
       "label": "index1 page",
       "cookiePath": "",
-      "url": "https://newlaunch.iproperty.com.my/property/pasir-gudang/meridin-east/new-5329/",
+      "url": "http://localhost:4000/property/location/new-5329/",
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "ol",
@@ -28,7 +28,7 @@
     },  {
       "label": "click image title",
       "cookiePath": "",
-      "url": "https://newlaunch.iproperty.com.my/property/pasir-gudang/meridin-east/new-5329/",
+      "url": "http://localhost:4000/property/location/new-5329/",
       "onReadyScript": "casper/viewimage.js",
       "referenceUrl": "",
       "readyEvent": "",
@@ -47,7 +47,7 @@
     {
       "label": "click .ant-tabs .displayToggle a",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "https://newlaunch.iproperty.com.my/property/pasir-gudang/meridin-east/new-5329/",
+      "url": "http://localhost:4000/property/location/new-5329/",
       "referenceUrl": "",
       "readyEvent": "",
       "onReadyScript": "casper/antTabs.js",
@@ -66,7 +66,7 @@
     {
       "label": "click .right-contact-agent button",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "https://newlaunch.iproperty.com.my/property/pasir-gudang/meridin-east/new-5329/",
+      "url": "http://localhost:4000/property/location/new-5329/",
       "referenceUrl": "",
       "readyEvent": "",
       "onReadyScript": "casper/contactAgent.js",
