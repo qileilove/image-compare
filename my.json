@@ -1,0 +1,100 @@
+{
+  "id": "my_backstop",
+  "viewports": [
+    {
+      "label": "tablet",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "index1 page",
+      "cookiePath": "",
+      "url": "https://newlaunch.iproperty.com.my/property/pasir-gudang/meridin-east/new-5329/",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "ol",
+      "delay": 15000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": "ol",
+      "selectors": ["ol",".property-summary",".contact-form-bottom",".contact-form-top"],
+      "selectorExpansion": true,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },  {
+      "label": "click image title",
+      "cookiePath": "",
+      "url": "https://newlaunch.iproperty.com.my/property/pasir-gudang/meridin-east/new-5329/",
+      "onReadyScript": "casper/viewimage.js",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 15000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": ".image-title",
+      "selectors": [".image-title"],
+      "selectorExpansion": true,
+      "misMatchThreshold": 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "click .ant-tabs .displayToggle a",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://newlaunch.iproperty.com.my/property/pasir-gudang/meridin-east/new-5329/",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "onReadyScript": "casper/antTabs.js",
+      "readySelector": "",
+      "delay": 35000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": "",
+      "selectors": [".ant-tabs .container"],
+      "selectorExpansion": true,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "click .right-contact-agent button",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://newlaunch.iproperty.com.my/property/pasir-gudang/meridin-east/new-5329/",
+      "referenceUrl": "",
+      "readyEvent": "",
+      "onReadyScript": "casper/contactAgent.js",
+      "readySelector": ".right-contact-agent",
+      "delay":35000,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": "",
+      "selectors": [".right-contact-agent .contact-form-top"],
+      "selectorExpansion": true,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/my_bitmaps_reference",
+    "bitmaps_test": "backstop_data/my_bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/my_html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "chrome",
+  "engineFlags": [],
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 100,
+  "debug": true,
+  "debugWindow": false
+}
