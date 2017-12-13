@@ -1,5 +1,5 @@
 module.exports = function (casper, scenario, vp) {
-    casper.wait(10000);
-    casper.click('.ant-tabs-tabpane  div  a');
+    casper.wait(1000);
+    casper.click('#listing-features .fAShJm a');
     casper.wait(250);
 };
