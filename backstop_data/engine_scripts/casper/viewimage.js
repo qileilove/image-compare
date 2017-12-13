@@ -1,5 +1,5 @@
 module.exports = function (casper, scenario, vp) {
-    casper.wait(10000);
+    casper.wait(1000);
     casper.click('.image-bar .icon');
     casper.wait(250);
 };
