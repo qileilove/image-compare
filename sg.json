@@ -21,7 +21,7 @@
       "hoverSelector": "",
       "clickSelector": "",
       "postInteractionWait": "ol",
-      "selectors": ["ol",".property-summary",".contact-form-bottom",".contact-form-top"],
+      "selectors": [".property-summary",".contact-form-bottom",".contact-form-top"],
       "selectorExpansion": true,
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
@@ -80,7 +80,7 @@
       "postInteractionWait": "",
       "selectors": [".right-contact-agent .contact-form-top"],
       "selectorExpansion": true,
-      "misMatchThreshold" : 0.1,
+      "misMatchThreshold" : 7,
       "requireSameDimensions": true
     },
     {
