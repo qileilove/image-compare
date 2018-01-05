@@ -1,0 +1,16 @@
+{
+  "name": "backstopjs_test",
+  "version": "1.0.0",
+  "description": "BackstopJS: Catch CSS curveballs.",
+  "scripts": {
+    "approve": "backstop approve",
+    "test": "./node_modules/backstopjs/cli/index.js test --config=my_backstop",
+    "init": "backstop init"
+  },
+  "dependencies": {
+    "backstop": "^1.0.1",
+    "backstopjs": "^3.0.36",
+    "gulp": "^3.9.1",
+    "gulp-exec": "^2.1.3"
+  }
+}
