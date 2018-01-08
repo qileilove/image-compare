@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-./node_modules/backstopjs/cli/index.js approve --config=$1
+./node_modules/backstopjs/cli/index.js approve --config=${MARKET}

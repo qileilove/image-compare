@@ -16,11 +16,11 @@ Execute scripts:
     https://github.com/garris/BackstopJS
 
 ```apple js shell
-./run_compare_test.sh <which case you want to test>
+MARKET="<which case you want to set the base image>" ./run_compare_test.sh 
 ```
 2. use the generated image as the base image
 
 ```apple js shell
-./get_bash_image.sh <which case you want to set the base image>
+MARKET="<which case you want to set the base image>" ./get_bash_image.sh  
 
 ```
