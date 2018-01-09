@@ -1,6 +1,6 @@
 #UI COMPARE TEST
 
-Getting Started
+## Getting Started
 Please makesure you have Node.js, and the node package manager yarn/npm:
 ```apple js
 
@@ -8,7 +8,7 @@ npm install
 
 ```
 
-Execute scripts:
+## Execute scripts:
 
 1. run generate the image at the first time, the parameter is that which testcase(Actually they are some json file) you want to test.
 
@@ -24,3 +24,7 @@ MARKET="<which case you want to set the base image>" ./run_compare_test.sh
 MARKET="<which case you want to set the base image>" ./get_bash_image.sh  
 
 ```
+## check the report
+
+after finished the test.
+go to the backstop_data menu,  open the index.html in different <MARKET>_html_report directory.
