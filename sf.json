@@ -146,7 +146,7 @@
     "html_report": "backstop_data/sf_html_report",
     "ci_report": "backstop_data/ci_report"
   },
-  "report": ["browser"],
+  "report": ["CI"],
   "engine": "chrome",
   "engineFlags": [],
   "asyncCaptureLimit": 5,

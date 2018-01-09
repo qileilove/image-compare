@@ -28,8 +28,5 @@ RUN ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
 #Install Headless Display
 RUN apt-get -y install xvfb
 
-
-EXPOSE 9999
-
 #CMD ["/bin/bash"]
 CMD sh run_compare_test.sh
