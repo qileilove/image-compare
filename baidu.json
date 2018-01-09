@@ -16,7 +16,7 @@
       "referenceUrl": "",
       "readyEvent": "",
       "readySelector": "",
-      "delay": 3000,
+      "delay": 5000,
       "hideSelectors": [],
       "removeSelectors": [],
       "hoverSelector": "",
@@ -24,7 +24,7 @@
       "postInteractionWait": "",
       "selectors": [],
       "selectorExpansion": true,
-      "misMatchThreshold" : 0.1,
+      "misMatchThreshold" : 1,
       "requireSameDimensions": true
     }
   ],
@@ -35,7 +35,7 @@
     "html_report": "backstop_data/baidu_html_report",
     "ci_report": "backstop_data/ci_report"
   },
-  "report": ["browser"],
+  "report": ["CI"],
   "engine": "chrome",
   "engineFlags": [],
   "asyncCaptureLimit": 1,
