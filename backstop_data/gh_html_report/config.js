@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_index_page_0_ol_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_index_page_0_ol_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_index_page_0_ol_0_tablet.png",
         "selector": "ol",
         "fileName": "gh_backstop_index_page_0_ol_0_tablet.png",
         "label": "index page",
@@ -24,7 +24,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_index_page_1_property-summary_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_index_page_1_property-summary_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_index_page_1_property-summary_0_tablet.png",
         "selector": ".property-summary",
         "fileName": "gh_backstop_index_page_1_property-summary_0_tablet.png",
         "label": "index page",
@@ -44,7 +44,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_index_page_2_bottom-contact-agent_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_index_page_2_bottom-contact-agent_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_index_page_2_bottom-contact-agent_0_tablet.png",
         "selector": "#bottom-contact-agent",
         "fileName": "gh_backstop_index_page_2_bottom-contact-agent_0_tablet.png",
         "label": "index page",
@@ -64,7 +64,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
         "selector": "#listing-features .container",
         "fileName": "gh_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
         "label": "property feature",
@@ -84,7 +84,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
         "selector": ".right-contact-agent .contact-form-top",
         "fileName": "gh_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
         "label": "right lead module validation",
@@ -104,7 +104,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_media_gallery_0_header_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_media_gallery_0_header_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_media_gallery_0_header_0_tablet.png",
         "selector": ".header",
         "fileName": "gh_backstop_media_gallery_0_header_0_tablet.png",
         "label": "media gallery",
@@ -124,7 +124,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_get_first_search_for_srp_multi_locations_0_search_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_get_first_search_for_srp_multi_locations_0_search_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_get_first_search_for_srp_multi_locations_0_search_0_tablet.png",
         "selector": ".search",
         "fileName": "gh_backstop_get_first_search_for_srp_multi_locations_0_search_0_tablet.png",
         "label": "get first search for srp multi locations",
@@ -136,8 +136,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 35
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -145,7 +144,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_SL_area_apecialist_0_specialists-container_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_SL_area_apecialist_0_specialists-container_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_SL_area_apecialist_0_specialists-container_0_tablet.png",
         "selector": ".specialists-container",
         "fileName": "gh_backstop_SL_area_apecialist_0_specialists-container_0_tablet.png",
         "label": "SL area apecialist",
@@ -165,7 +164,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_SL_area_apecialist_pop-up_0_ant-modal-body_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_SL_area_apecialist_pop-up_0_ant-modal-body_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_SL_area_apecialist_pop-up_0_ant-modal-body_0_tablet.png",
         "selector": ".ant-modal-body",
         "fileName": "gh_backstop_SL_area_apecialist_pop-up_0_ant-modal-body_0_tablet.png",
         "label": "SL area apecialist pop-up",
@@ -178,7 +177,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 43
+          "analysisTime": 42
         }
       },
       "status": "pass"
@@ -186,7 +185,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_NL_area_apecialist_0_listing-enquiry-form_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_NL_area_apecialist_0_listing-enquiry-form_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_NL_area_apecialist_0_listing-enquiry-form_0_tablet.png",
         "selector": "#listing-enquiry-form",
         "fileName": "gh_backstop_NL_area_apecialist_0_listing-enquiry-form_0_tablet.png",
         "label": "NL area apecialist",
@@ -206,7 +205,7 @@ report({
     {
       "pair": {
         "reference": "../gh_bitmaps_reference/gh_backstop_SA_area_apecialist_0_listing-enquiry-form_0_tablet.png",
-        "test": "../gh_bitmaps_test/20171226-150934/gh_backstop_SA_area_apecialist_0_listing-enquiry-form_0_tablet.png",
+        "test": "../gh_bitmaps_test/20180109-174229/gh_backstop_SA_area_apecialist_0_listing-enquiry-form_0_tablet.png",
         "selector": "#listing-enquiry-form",
         "fileName": "gh_backstop_SA_area_apecialist_0_listing-enquiry-form_0_tablet.png",
         "label": "SA area apecialist",

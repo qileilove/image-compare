@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../sg_bitmaps_reference/sg_backstop_index_page_0_property-summary_0_tablet.png",
-        "test": "../sg_bitmaps_test/20171226-150508/sg_backstop_index_page_0_property-summary_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_index_page_0_property-summary_0_tablet.png",
         "selector": ".property-summary",
         "fileName": "sg_backstop_index_page_0_property-summary_0_tablet.png",
         "label": "index page",
@@ -24,7 +24,7 @@ report({
     {
       "pair": {
         "reference": "../sg_bitmaps_reference/sg_backstop_index_page_1_contact-form-bottom_0_tablet.png",
-        "test": "../sg_bitmaps_test/20171226-150508/sg_backstop_index_page_1_contact-form-bottom_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_index_page_1_contact-form-bottom_0_tablet.png",
         "selector": ".contact-form-bottom",
         "fileName": "sg_backstop_index_page_1_contact-form-bottom_0_tablet.png",
         "label": "index page",
@@ -44,7 +44,7 @@ report({
     {
       "pair": {
         "reference": "../sg_bitmaps_reference/sg_backstop_index_page_2_contact-form-top_0_tablet.png",
-        "test": "../sg_bitmaps_test/20171226-150508/sg_backstop_index_page_2_contact-form-top_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_index_page_2_contact-form-top_0_tablet.png",
         "selector": ".contact-form-top",
         "fileName": "sg_backstop_index_page_2_contact-form-top_0_tablet.png",
         "label": "index page",
@@ -63,8 +63,48 @@ report({
     },
     {
       "pair": {
+        "reference": "../sg_bitmaps_reference/sg_backstop_right_lead_form_with_click_Visit_Privacy_Policy_0_contact-form-top_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_right_lead_form_with_click_Visit_Privacy_Policy_0_contact-form-top_0_tablet.png",
+        "selector": ".contact-form-top",
+        "fileName": "sg_backstop_right_lead_form_with_click_Visit_Privacy_Policy_0_contact-form-top_0_tablet.png",
+        "label": "right lead form with click 'Visit Privacy Policy'",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../sg_bitmaps_reference/sg_backstop_buttom_lead_form_with_click_Visit_Privacy_Policy_0_contact-form-bottom_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_buttom_lead_form_with_click_Visit_Privacy_Policy_0_contact-form-bottom_0_tablet.png",
+        "selector": ".contact-form-bottom",
+        "fileName": "sg_backstop_buttom_lead_form_with_click_Visit_Privacy_Policy_0_contact-form-bottom_0_tablet.png",
+        "label": "buttom lead form with click 'Visit Privacy Policy'",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
         "reference": "../sg_bitmaps_reference/sg_backstop_media_gallery_0_image-title_0_tablet.png",
-        "test": "../sg_bitmaps_test/20171226-150508/sg_backstop_media_gallery_0_image-title_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_media_gallery_0_image-title_0_tablet.png",
         "selector": ".image-title",
         "fileName": "sg_backstop_media_gallery_0_image-title_0_tablet.png",
         "label": "media gallery",
@@ -84,7 +124,7 @@ report({
     {
       "pair": {
         "reference": "../sg_bitmaps_reference/sg_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
-        "test": "../sg_bitmaps_test/20171226-150508/sg_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
         "selector": "#listing-features .container",
         "fileName": "sg_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
         "label": "property feature",
@@ -104,7 +144,7 @@ report({
     {
       "pair": {
         "reference": "../sg_bitmaps_reference/sg_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
-        "test": "../sg_bitmaps_test/20171226-150508/sg_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
         "selector": ".right-contact-agent .contact-form-top",
         "fileName": "sg_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
         "label": "right lead module validation",
@@ -116,8 +156,7 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "6.10",
-          "analysisTime": 24
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -125,7 +164,7 @@ report({
     {
       "pair": {
         "reference": "../sg_bitmaps_reference/sg_backstop_SRP_area_specialist_0_specialists-container_0_tablet.png",
-        "test": "../sg_bitmaps_test/20171226-150508/sg_backstop_SRP_area_specialist_0_specialists-container_0_tablet.png",
+        "test": "../sg_bitmaps_test/20180119-105441/sg_backstop_SRP_area_specialist_0_specialists-container_0_tablet.png",
         "selector": ".specialists-container",
         "fileName": "sg_backstop_SRP_area_specialist_0_specialists-container_0_tablet.png",
         "label": "SRP area specialist",
