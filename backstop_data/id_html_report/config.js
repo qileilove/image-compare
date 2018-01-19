@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_index_page_0_ol_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_index_page_0_ol_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_index_page_0_ol_0_tablet.png",
         "selector": "ol",
         "fileName": "id_backstop_index_page_0_ol_0_tablet.png",
         "label": "index page",
@@ -24,7 +24,7 @@ report({
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_index_page_1_property-summary_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_index_page_1_property-summary_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_index_page_1_property-summary_0_tablet.png",
         "selector": ".property-summary",
         "fileName": "id_backstop_index_page_1_property-summary_0_tablet.png",
         "label": "index page",
@@ -44,48 +44,51 @@ report({
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_index_page_2_contact-form-bottom_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_index_page_2_contact-form-bottom_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_index_page_2_contact-form-bottom_0_tablet.png",
         "selector": ".contact-form-bottom",
         "fileName": "id_backstop_index_page_2_contact-form-bottom_0_tablet.png",
         "label": "index page",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -85
           },
-          "misMatchPercentage": "0.00",
-          "analysisTime": 29
-        }
+          "misMatchPercentage": "7.01",
+          "analysisTime": 48
+        },
+        "diffImage": "../id_bitmaps_test/20180119-144309/failed_diff_id_backstop_index_page_2_contact-form-bottom_0_tablet.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_index_page_3_contact-form-top_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_index_page_3_contact-form-top_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_index_page_3_contact-form-top_0_tablet.png",
         "selector": ".contact-form-top",
         "fileName": "id_backstop_index_page_3_contact-form-top_0_tablet.png",
         "label": "index page",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -17
           },
-          "misMatchPercentage": "0.00"
-        }
+          "misMatchPercentage": "17.37",
+          "analysisTime": 48
+        },
+        "diffImage": "../id_bitmaps_test/20180119-144309/failed_diff_id_backstop_index_page_3_contact-form-top_0_tablet.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
         "selector": "#listing-features .container",
         "fileName": "id_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
         "label": "property feature",
@@ -105,27 +108,29 @@ report({
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
         "selector": ".right-contact-agent .contact-form-top",
         "fileName": "id_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
         "label": "right lead module validation",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -29
           },
-          "misMatchPercentage": "0.00"
-        }
+          "misMatchPercentage": "18.47",
+          "analysisTime": 36
+        },
+        "diffImage": "../id_bitmaps_test/20180119-144309/failed_diff_id_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_get_image_title_0_header_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_get_image_title_0_header_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_get_image_title_0_header_0_tablet.png",
         "selector": ".header",
         "fileName": "id_backstop_get_image_title_0_header_0_tablet.png",
         "label": "get image title",
@@ -137,15 +142,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
-        }
+          "misMatchPercentage": "0.57",
+          "analysisTime": 28
+        },
+        "diffImage": "../id_bitmaps_test/20180119-144309/failed_diff_id_backstop_get_image_title_0_header_0_tablet.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_area_specialist_0_initializedspecialists-container_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_area_specialist_0_initializedspecialists-container_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_area_specialist_0_initializedspecialists-container_0_tablet.png",
         "selector": ".initialized .specialists-container",
         "fileName": "id_backstop_area_specialist_0_initializedspecialists-container_0_tablet.png",
         "label": "area specialist",
@@ -165,22 +172,24 @@ report({
     {
       "pair": {
         "reference": "../id_bitmaps_reference/id_backstop_area_specialist_pop_up_0_ant-modal-content_0_tablet.png",
-        "test": "../id_bitmaps_test/20180109-174700/id_backstop_area_specialist_pop_up_0_ant-modal-content_0_tablet.png",
+        "test": "../id_bitmaps_test/20180119-144309/id_backstop_area_specialist_pop_up_0_ant-modal-content_0_tablet.png",
         "selector": ".ant-modal-content",
         "fileName": "id_backstop_area_specialist_pop_up_0_ant-modal-content_0_tablet.png",
         "label": "area specialist pop up",
         "requireSameDimensions": true,
         "misMatchThreshold": 0.1,
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 3
           },
-          "misMatchPercentage": "0.00"
-        }
+          "misMatchPercentage": "7.93",
+          "analysisTime": 48
+        },
+        "diffImage": "../id_bitmaps_test/20180119-144309/failed_diff_id_backstop_area_specialist_pop_up_0_ant-modal-content_0_tablet.png"
       },
-      "status": "pass"
+      "status": "fail"
     }
   ]
 });
