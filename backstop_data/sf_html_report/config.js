@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_index_page_0_ol_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_index_page_0_ol_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_index_page_0_ol_0_tablet.png",
         "selector": "ol",
         "fileName": "sf_backstop_index_page_0_ol_0_tablet.png",
         "label": "index page",
@@ -24,7 +24,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_index_page_1_property-summary_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_index_page_1_property-summary_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_index_page_1_property-summary_0_tablet.png",
         "selector": ".property-summary",
         "fileName": "sf_backstop_index_page_1_property-summary_0_tablet.png",
         "label": "index page",
@@ -44,7 +44,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_index_page_2_bottom-contact-agent_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_index_page_2_bottom-contact-agent_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_index_page_2_bottom-contact-agent_0_tablet.png",
         "selector": "#bottom-contact-agent",
         "fileName": "sf_backstop_index_page_2_bottom-contact-agent_0_tablet.png",
         "label": "index page",
@@ -64,7 +64,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
         "selector": "#listing-features .container",
         "fileName": "sf_backstop_property_feature_0_listing-featurescontainer_0_tablet.png",
         "label": "property feature",
@@ -84,7 +84,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
         "selector": ".right-contact-agent .contact-form-top",
         "fileName": "sf_backstop_right_lead_module_validation_0_right-contact-agentcontact-form-top_0_tablet.png",
         "label": "right lead module validation",
@@ -104,7 +104,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_get_image_title_0_header_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_get_image_title_0_header_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_get_image_title_0_header_0_tablet.png",
         "selector": ".header",
         "fileName": "sf_backstop_get_image_title_0_header_0_tablet.png",
         "label": "get image title",
@@ -116,8 +116,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.74",
-          "analysisTime": 26
+          "misMatchPercentage": "0.78",
+          "analysisTime": 23
         }
       },
       "status": "pass"
@@ -125,7 +125,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_get_first_search_for_srp_multi_locations_0_search_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_get_first_search_for_srp_multi_locations_0_search_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_get_first_search_for_srp_multi_locations_0_search_0_tablet.png",
         "selector": ".search",
         "fileName": "sf_backstop_get_first_search_for_srp_multi_locations_0_search_0_tablet.png",
         "label": "get first search for srp multi locations",
@@ -137,7 +137,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.06",
+          "analysisTime": 32
         }
       },
       "status": "pass"
@@ -145,7 +146,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_get_second_search_for_srp_one_level2_location_0_search_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_get_second_search_for_srp_one_level2_location_0_search_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_get_second_search_for_srp_one_level2_location_0_search_0_tablet.png",
         "selector": ".search",
         "fileName": "sf_backstop_get_second_search_for_srp_one_level2_location_0_search_0_tablet.png",
         "label": "get second search for srp one level2 location",
@@ -157,7 +158,8 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "misMatchPercentage": "0.06",
+          "analysisTime": 31
         }
       },
       "status": "pass"
@@ -165,7 +167,7 @@ report({
     {
       "pair": {
         "reference": "../sf_bitmaps_reference/sf_backstop_SRP_area_specialist_0_specialists-container_0_tablet.png",
-        "test": "../sf_bitmaps_test/20180109-171857/sf_backstop_SRP_area_specialist_0_specialists-container_0_tablet.png",
+        "test": "../sf_bitmaps_test/20180126-143957/sf_backstop_SRP_area_specialist_0_specialists-container_0_tablet.png",
         "selector": ".specialists-container",
         "fileName": "sf_backstop_SRP_area_specialist_0_specialists-container_0_tablet.png",
         "label": "SRP area specialist",

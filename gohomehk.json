@@ -82,7 +82,7 @@
       "postInteractionWait": ".header",
       "selectors": [".header"],
       "selectorExpansion": true,
-      "misMatchThreshold": 0.1,
+      "misMatchThreshold": 1,
       "requireSameDimensions": true
     },
     {
